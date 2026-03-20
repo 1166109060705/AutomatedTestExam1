@@ -1,0 +1,20 @@
+companyname:  TestCompp1
+companyname2:  TestCompp22
+companyname3:  TestCompp33
+companyname4:  TestCompp44
+companydetail:  ซอฟต์แวร์ การพัฒนาแอพ
+userdetail:     101-200
+invalidEmail: sdasdasda212312
+email:  TestEmail1ss@gmail.com
+email2:  TestEmail2ss@gmail.com
+email3:  TestEmail3ss@gmail.com
+name: Teeradech
+invalidname:  "!@#$%^&*()_+"
+Lastname: Charoenpol
+validphone:  0967690708
+invalidphone: 012312131
+validOTP:  123456
+invalidOTP: 321123
+validPromo Code: FREE15DAY
+invalidPromo Code: FALSEPROMOCODE
+password: TestDatapass123
